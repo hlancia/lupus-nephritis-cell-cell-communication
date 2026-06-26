@@ -1,0 +1,8 @@
+"source","target","ligand","receptor","prob","pval","interaction_name","interaction_name_2","pathway_name","annotation","evidence"
+"Inflammatory_Macrophage","B_Cell","TNF","TNFRSF1B",0.00399302725463457,0,"TNF_TNFRSF1B","TNF - TNFRSF1B","TNF","Secreted Signaling","KEGG: hsa04060"
+"Inflammatory_Macrophage","B_Cell","TNFSF13B","TNFRSF13B",0.0650312788584149,0,"TNFSF13B_TNFRSF13B","TNFSF13B - TNFRSF13B","BAFF","Secreted Signaling","KEGG: hsa04060"
+"Inflammatory_Macrophage","B_Cell","LGALS9","PTPRC",0.41382265102414,0,"LGALS9_CD45","LGALS9 - CD45","GALECTIN","Secreted Signaling","PMID: 30120235"
+"Inflammatory_Macrophage","B_Cell","LGALS9","CD44",0.279229564193072,0,"LGALS9_CD44","LGALS9 - CD44","GALECTIN","Secreted Signaling","PMID: 25065622"
+"Inflammatory_Macrophage","B_Cell","PTPRC","CD22",0.399470126464386,0,"PTPRC_CD22","PTPRC - CD22","CD45","Cell-Cell Contact","PMID: 12115612"
+"Inflammatory_Macrophage","B_Cell","HLA-F","LILRB1",0.0853661644328551,0,"HLA-F_LILRB1","HLA-F - LILRB1","MHC-I","Cell-Cell Contact","PMID: 28484462"
+"Inflammatory_Macrophage","B_Cell","SELPLG","SELL",0.124525358027374,0,"SELPLG_SELL","SELPLG - SELL","SELPLG","Cell-Cell Contact","PMC2431087; PMID:  8892633,PMID:  8896607"
