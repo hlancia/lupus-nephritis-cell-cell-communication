@@ -287,10 +287,10 @@ All intermediate communication tables and publication-quality figures are genera
 
 # Related Projects
 
-This repository is part of the **AI Computational Immunology Portfolio**.
+This repository is part of the **[AI Computational Immunology Portfolio](https://github.com/hlancia/AI-Computational-Immunology-Portfolio/tree/main)**.
 
 - Cross-Species Therapeutic Target Discovery in Lupus Nephritis
-- Cell–Cell Communication Analysis of Inflammatory Macrophage Signaling
+- Cell–Cell Communication Analysis in Lupus Nephritis
 - AI-Driven Therapeutic Target Prioritization
 - AI-Driven Patient Stratification and Precision Targeting
 
