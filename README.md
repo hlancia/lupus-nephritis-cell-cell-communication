@@ -29,6 +29,17 @@ The objective is to identify communication hubs, dominant signaling pathways, an
 
 ---
 
+# Highlights
+
+- Systems-level communication analysis
+- CellChat workflow
+- Ligand–receptor inference
+- Communication hub identification
+- Pathway prioritization
+- Macrophage-centered network analysis
+
+---
+
 # Scientific Motivation
 
 Lupus nephritis is characterized by complex interactions between infiltrating immune cells and resident kidney cells.
