@@ -147,14 +147,16 @@ This systems-level strategy identifies communication programs that cannot be det
 
 # Main Results
 
-The pipeline generated:
+The computational workflow generated:
 
 - Global communication network
-- Incoming and outgoing signaling analysis
-- Macrophage interaction tables
-- Pathway-specific communication networks
+- Incoming signaling analysis
+- Outgoing signaling analysis
+- Macrophage communication atlas
+- Ligand–receptor interaction tables
+- Pathway enrichment
 - Communication strength ranking
-- Therapeutic pathway prioritization
+- Publication-quality figures
 
 ---
 
