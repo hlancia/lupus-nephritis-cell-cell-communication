@@ -213,7 +213,7 @@ These findings suggest inflammatory macrophages act as central organizers of imm
 
 # Translational Relevance
 
-Several communication pathways identified in this analysis are directly relevant to therapeutic development.
+Several communication pathways identified here are already under therapeutic investigation, demonstrating the ability of computational systems immunology to prioritize clinically relevant signaling programs.
 
 For example:
 
