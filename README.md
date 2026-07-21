@@ -160,7 +160,7 @@ The computational workflow generated:
 
 ---
 
-# Key Biological Findings
+# Key Scientific Findings
 
 ## Inflammatory macrophages function as major communication hubs
 
