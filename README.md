@@ -267,6 +267,22 @@ These results illustrate how computational systems biology can prioritize biolog
 
 ---
 
+# Limitations
+
+Several limitations should be considered.
+
+- CellChat infers communication from transcript abundance rather than direct protein interactions.
+
+- Ligand expression does not necessarily indicate functional signaling.
+
+- Spatial proximity between communicating cells is inferred rather than directly measured.
+
+- Experimental validation remains necessary.
+
+Despite these limitations, CellChat provides a powerful framework for reconstructing tissue-level communication networks.
+
+---
+
 # Future Directions
 
 Planned extensions include:
