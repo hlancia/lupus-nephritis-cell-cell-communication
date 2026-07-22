@@ -283,7 +283,7 @@ Despite these limitations, CellChat provides a powerful framework for reconstruc
 
 ---
 
-# Future Directions
+# Portfolio Roadmap
 
 Planned extensions include:
 
