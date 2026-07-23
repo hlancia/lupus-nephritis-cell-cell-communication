@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+
+title: "Cross-Species Therapeutic Target Discovery in Lupus Nephritis"
+
+message: "If you use this repository, please cite it."
+
+type: software
+
+authors:
+    Last name: Lancia
+    First name: Hyshem H.
+
+repository-code: "https://github.com/hlancia/Cross-Species-Therapeutic-Target-Discovery-in-Lupus-Nephritis"
+
+license: MIT
+
+version: 1.0.0
+
+date-released: 2026-07-15
